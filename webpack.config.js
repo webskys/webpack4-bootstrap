@@ -119,8 +119,6 @@ module.exports = {
       hash:true
     }),
     new CleanWebpackPlugin(),
-    new webpack.NamedModulesPlugin(),
-    new webpack.HotModuleReplacementPlugin(),
     new MiniCssExtractPlugin({
       filename:"[name].css",
       chunkFilename: "[id].css"
