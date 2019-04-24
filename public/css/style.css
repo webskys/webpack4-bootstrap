@@ -1,0 +1,9 @@
+.plain-css{
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+.post-css{
+  height:50px;
+  background: linear-gradient(to right, #ff0000, #01ff11);
+}

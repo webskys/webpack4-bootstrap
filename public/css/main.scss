@@ -1,0 +1,13 @@
+@import "./custom";
+@import "~bootstrap/scss/bootstrap";
+
+
+.font-sass{
+  font-size: 20px;
+  color: aqua;
+  .sass-s{
+    color: brown;
+    font-size: 14px;
+  }
+}
+
