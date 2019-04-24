@@ -6,5 +6,4 @@ import 'public/css/a.styl'
 
 import a from 'public/js/a.js'
 
-a();
-
+a()
